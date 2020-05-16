@@ -34,7 +34,7 @@
 .content-text {
     margin: 0 10px 0 10px;
 }
-/* 768px�ȉ� */
+/* 768px以下用 */
 @media screen and (max-width:768px) {
   * {
     margin: 0;
